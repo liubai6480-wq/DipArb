@@ -1,2 +1,0 @@
-# DipArb Monitor 只用 Python 标准库，无第三方依赖。
-# requirements.txt 保留为空，Railway 不会触发 pip install（部署更快）。
